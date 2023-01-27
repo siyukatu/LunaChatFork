@@ -4,6 +4,10 @@ LunaChatFork
 Build Status : [![Build Status](https://travis-ci.org/ucchyocean/LunaChat.svg?branch=master)](https://travis-ci.org/ucchyocean/LunaChat)
 
 しゆかつが勝手にフォークして勝手に改造したプラグイン<br />
+# ビルド方法
+1. "mvn compile" を実行する
+2. "mvn package" を実行する
+# 原文
 チャンネルチャットプラグイン<br />
 <br />
 ダウンロードはこちらから<br />
