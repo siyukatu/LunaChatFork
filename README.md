@@ -1,8 +1,9 @@
-LunaChat
+LunaChatFork
 ========
 
 Build Status : [![Build Status](https://travis-ci.org/ucchyocean/LunaChat.svg?branch=master)](https://travis-ci.org/ucchyocean/LunaChat)
 
+しゆかつが勝手にフォークして勝手に改造したプラグイン<br />
 チャンネルチャットプラグイン<br />
 <br />
 ダウンロードはこちらから<br />
