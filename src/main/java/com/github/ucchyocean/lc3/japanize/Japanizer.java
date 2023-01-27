@@ -64,7 +64,7 @@ public class Japanizer {
 
         // 無意味なら空文字列を返す
         // 文字数でも比較してるのは「!」(半角)が「！」(全角)になったりして無意味だから
-        if ( japanized == "" || japanized.length == org.length ) {
+        if ( japanized == "" || japanized.length() == org.length() ) {
             return "";
         }
 
